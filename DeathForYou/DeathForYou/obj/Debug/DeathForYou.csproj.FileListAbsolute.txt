@@ -1,0 +1,8 @@
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\bin\Debug\DeathForYou.exe.config
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\bin\Debug\DeathForYou.exe
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\bin\Debug\DeathForYou.pdb
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\obj\Debug\DeathForYou.Properties.Resources.resources
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\obj\Debug\DeathForYou.csproj.GenerateResource.cache
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\obj\Debug\DeathForYou.csproj.CoreCompileInputs.cache
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\obj\Debug\DeathForYou.exe
+C:\Users\Zed\source\repos\DeathForYou\DeathForYou\obj\Debug\DeathForYou.pdb
